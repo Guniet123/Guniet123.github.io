@@ -17,4 +17,4 @@ layout: homepage
  - _Programming Concepts:_ Object-Oriented programming, Functional programming, Full-Stack Architecture
 
 ## Projects
-- _Sustainability in Greece:_ Full-stack website built with React and TypeScript that showcases sustainable practices in Greece that I researched during my study abroad program. Through an interactive, map-driven experience, the site integrates the Google Maps JavaScript API to visualize locations and routes. The project was deployed to the cloud using Vercel and a Node/Express backend.
+- **Sustainability in Greece:** Full-stack website built with React and TypeScript that showcases sustainable practices in Greece that I researched during my study abroad program. Through an interactive, map-driven experience, the site integrates the Google Maps JavaScript API to visualize locations and routes. The project was deployed to the cloud using Vercel and a Node/Express backend.
