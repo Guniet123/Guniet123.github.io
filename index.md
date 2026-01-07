@@ -12,9 +12,9 @@ layout: homepage
  - In the summer of 2023, I was a part of the Amazon Career Quest program, where I worked in a group setting to solve an environmental problem that we recognized could be tackled by using Arduinos.
 
 ## Skills
- - _Programming Languages:_ Java, JavaScript/TypeScript, OCaml, Racket, Ruby, Python
- - _Frameworks:_ Proficient in React, Node.js/Express, Google Maps Javascript API, NumPy, Java Swing, Figma
- - _Programming Concepts:_ Object-Oriented programming, Functional programming, Full-Stack Architecture
+ - **Programming Languages:** Java, JavaScript/TypeScript, OCaml, Racket, Ruby, Python
+ - **Frameworks:** Proficient in React, Node.js/Express, Google Maps Javascript API, NumPy, Java Swing, Figma
+ - **Programming Concepts:** Object-Oriented programming, Functional programming, Full-Stack Architecture
 
 ## Projects
 - **Sustainability in Greece:** Full-stack website built with React and TypeScript that showcases sustainable practices in Greece that I researched during my study abroad program. Through an interactive, map-driven experience, the site integrates the Google Maps JavaScript API to visualize locations and routes. The project was deployed to the cloud using Vercel and a Node/Express backend.
